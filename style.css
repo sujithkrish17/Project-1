@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Hind+Siliguri:wght@300&family=Titillium+Web&display=swap');
+body {
+  font-family: 'Hind Siliguri', sans-serif;
+  background-image: url("photo-1520250497591-112f2f40a3f4.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+blockquote {
+  border-left: 8px goldenrod solid;
+  padding: 4px;
+  padding-left: 10px;
+  
+}
+ul li {
+  list-style-type: none;
+  text-transform: uppercase;
+}
+
+a:link {
+  text-decoration: none;
+}
