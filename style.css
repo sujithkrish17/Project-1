@@ -12,11 +12,12 @@ blockquote {
   padding-left: 10px;
   
 }
-ul li {
+ul > li {
   list-style-type: none;
   text-transform: uppercase;
+  color: red;
 }
 
-a:link {
+a {
   text-decoration: none;
 }
